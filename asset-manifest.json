@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aliIndex/static/css/main.996652e8.chunk.css",
-    "main.js": "/aliIndex/static/js/main.bb14270e.chunk.js",
-    "main.js.map": "/aliIndex/static/js/main.bb14270e.chunk.js.map",
+    "main.css": "/aliIndex/static/css/main.3ed62dc3.chunk.css",
+    "main.js": "/aliIndex/static/js/main.95f2aab0.chunk.js",
+    "main.js.map": "/aliIndex/static/js/main.95f2aab0.chunk.js.map",
     "runtime~main.js": "/aliIndex/static/js/runtime~main.41da8910.js",
     "runtime~main.js.map": "/aliIndex/static/js/runtime~main.41da8910.js.map",
     "static/js/2.d6a534e5.chunk.js": "/aliIndex/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/aliIndex/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/aliIndex/index.html",
-    "precache-manifest.9f81ac4528812c1feeef8b7eefb6168a.js": "/aliIndex/precache-manifest.9f81ac4528812c1feeef8b7eefb6168a.js",
+    "precache-manifest.cf1b25865feb1ae76c3a02d6bf2d8ba3.js": "/aliIndex/precache-manifest.cf1b25865feb1ae76c3a02d6bf2d8ba3.js",
     "service-worker.js": "/aliIndex/service-worker.js",
-    "static/css/main.996652e8.chunk.css.map": "/aliIndex/static/css/main.996652e8.chunk.css.map"
+    "static/css/main.3ed62dc3.chunk.css.map": "/aliIndex/static/css/main.3ed62dc3.chunk.css.map"
   }
 }
